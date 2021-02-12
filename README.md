@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SCBee
+- 👋 Hi, I’m @SCBee (Zachary Uy)
 - 👀 I’m interested in reverse engineering gaming applications to create assistance and analytics tools.
 - 🌱 I’m currently learning how to implement a kernel driver.
 - 💞️ I’m looking to collaborate on kernel driver development with an experienced kernel dev so I can learn.
