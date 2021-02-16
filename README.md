@@ -7,7 +7,7 @@
 - 📫 How to reach me ... Message me!
 
 
-- Current Software Projects: Poker Solver using Counterfactual Regret Minimization - Currently finishing up the equity calculation feature.
+- Current Software Projects: Poker Game-Theory Optimal Solver using Counterfactual Regret Minimization - Currently finishing up the equity calculation feature.
 
 - Current Robotics Projects: Racing FPV Drone X-Frame design.
 
