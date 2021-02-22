@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to implement a kernel driver and how to improve my drone design through CFD analysis of my frame prototypes.
 - 💞️ I’m looking to collaborate on drone design projects with someone who shares the same level of interest that I do!
 
-- 📫 How to reach me ... Message me!
+- 📫 How to reach me ... Email me!
 
 
 - Current Software Projects: Poker Game-Theory Optimal Solver using Counterfactual Regret Minimization - Currently finishing up the equity calculation feature.
