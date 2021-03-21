@@ -7,10 +7,12 @@
 - 📫 How to reach me ... Email me!
 
 - Current Software Projects:
-    1) Poker Game-Theory Optimal Solver using Counterfactual Regret Minimization
-    2) Automated Financial Market Screening Tool
+    1) Automated Financial Market Screening Tool
+    2) Poker Game-Theory Optimal Solver using Counterfactual Regret Minimization
 
-- Current Robotics Projects: Racing FPV Drone Large Form Factor Frame.
+- Current Robotics Projects: Improving Racing FPV Drone Large Form Factor Frame.
+
+I'm looking for an internship to gain experience in the industry. To improve my qualifications, I have been working on my stock screener!
 
 <!---
 SCBee/SCBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
