@@ -8,7 +8,7 @@
 
 - Current Projects:
     1) Automated Financial Market Screening Tool
-    2) Robotic Hand Control via Image Analyses with ML
+    2) Robotic Hand Control via Image Analyses with Machine Learning
     3) Oil & Gas Extraction Simulations using Aspen HYSYS, 3DS SIMULIA. [backlog]
 
 <!---
