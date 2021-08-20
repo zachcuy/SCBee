@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SCBee (Zachary)! I am a Mechanical Engineering student at the Schulich School of Engineering, University of Calgary. Incoming 4th-year student, intern.
+- 👋 Hi, I’m @SCBee (Zachary)! I am a Mechanical & Mechatronics Engineering student at the Schulich School of Engineering, University of Calgary. Incoming 4th-year student, intern.
 
 - 👀 I have a massive interest in the energy sector (Oil & Gas, Renewables) and hope to pursue a career in it! I also enjoy tinkering with robotics, and gaining insights from data analyses.
 
