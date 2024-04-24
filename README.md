@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Zach! I am a Mechatronics Engineering student at the Schulich School of Engineering, University of Calgary.
+- 👋 Hi, I’m Zach! I am a Software Engineer.
 
-- 👀 I have a massive interest in everything technology! I enjoy tinkering with robotics.
+- MS. Computer Science at Georgia Tech.
+- BS. Mechanical & Mechatronics Engineering at the University of Calgary (Graduated May 2024).
+
+- 👀 I am interested in Software Engineering for building low-latency systems and mathematical optimization. 
 
 <!---
 SCBee/SCBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
