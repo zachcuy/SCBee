@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zach! I am a Software Engineer.
 
 - MS. Computer Science at Georgia Tech.
-- BS. Mechanical & Mechatronics Engineering at the University of Calgary (Graduated May 2024).
+- BS. Mechanical & Mechatronics Engineering at the University of Calgary.
 
 - 👀 I am interested in Software Engineering for building low-latency systems and mathematical optimization. 
 
